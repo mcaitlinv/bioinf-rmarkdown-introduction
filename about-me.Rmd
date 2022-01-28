@@ -6,9 +6,9 @@ output:
     toc: yes
     theme: 
       bootswatch: darkly
-  word_document:
-    toc: yes
   pdf_document:
+    toc: yes
+  word_document:
     toc: yes
 bibliography: references.bib
 always_allow_html: true
@@ -64,7 +64,7 @@ Another influential paper to how I approach climate and conservation is [@thurma
 
 ## The mathematics behind my research
 
-Where would we be without Hardy-Weinburg? $$f(A_1 A_1)=p^2, f(A_1 A_2)=2pq, f(A_2 A_2)=q^2$$ \\
+Where would we be without Hardy-Weinburg? $$f(A_1 A_1)=p^2, f(A_1 A_2)=2pq, f(A_2 A_2)=q^2$$ \
 $$p^2+2pq+ q^2= 1$$
 
 ## My computing experience
@@ -239,7 +239,7 @@ When I'm not in lab you may find me:
 1.  Running
 2.  Backpacking
 3.  Baking
-4.  Plaing video games online with friends around the country
+4.  Playing video games online with friends around the country
 
 Here's me camped at Guitar Lake below Mt. Whitney during a backpacking trip this past summer.
 
