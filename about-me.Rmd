@@ -10,6 +10,8 @@ output:
       bootswatch: darkly
   pdf_document:
     toc: yes
+  word_document:
+    toc: yes
 bibliography: references.bib
 always_allow_html: true
 ---
