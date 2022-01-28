@@ -2,15 +2,13 @@
 title: "About Me"
 author: "Caitlin Miller"
 output:
-  word_document:
-    toc: yes
   html_document:
     toc: yes
     theme: 
       bootswatch: darkly
-  pdf_document:
-    toc: yes
   word_document:
+    toc: yes
+  pdf_document:
     toc: yes
 bibliography: references.bib
 always_allow_html: true
